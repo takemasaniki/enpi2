@@ -3,4 +3,4 @@
 
 - this is a read me file
 - add second line
-- example for conflict
+- example for a conflict
